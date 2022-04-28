@@ -1,0 +1,12 @@
+---
+title: "A Multi-page HTML Document"
+author: "Yihui Xie and Romain Lesur"
+date: today
+format:
+  html: 
+    template: paged.html
+---
+
+# Introduction
+
+This is an example of a multi-page HTML document with some options shown in YAML header. See https://pagedown.rbind.io for the full documentation. The rest of this document is random text.
